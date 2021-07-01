@@ -1,4 +1,4 @@
-# meta-gradient_RL
+# Meta-Gradient Reinforcement Learning
 Implementation of NeurIPS 2018 paper "Meta-Gradient Reinforcement Learning" <a href="https://proceedings.neurips.cc/paper/2018/file/2715518c875999308842e3455eda2fe3-Paper.pdf">Link</a>
 
 We implement A2C as the base algorithm under CartPole-v1 environment and consider γ (i.e. the discounting factor) as the only hyperparameter to be meta-learned/meta-adapted.
